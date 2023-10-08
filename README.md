@@ -3,3 +3,4 @@
 2. Study currently pursuing
 3. Your major & institute name
 4. Your interests
+5. Any other interesting points
